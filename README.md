@@ -1,4 +1,4 @@
-0x16. C - Simple Shell A simple shell project by Bless Promise and Emmanuel Ebenje
+0x16. C - Simple Shell A simple shell project by Emmaculate Mutei and Kimotho Muchiri
 
 Compilation gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 
